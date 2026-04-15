@@ -1,4 +1,4 @@
-module github.com/CaiJimmy/hugo-theme-stack-starter
+module github.com/will-l-dev/will-l-dev.github.io-next-blog
 
 go 1.17
 

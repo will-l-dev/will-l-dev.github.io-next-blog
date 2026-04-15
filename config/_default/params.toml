@@ -10,26 +10,25 @@ favicon        = "img/favicon.png"
 SortBy              = "default"
 
 [footer]
-    since      = 2020
-    customText = ""
+    since      = 2026
+    customText = "Courtesy of <a href='https://www.bynd.com/' target='_blank'>Beyond</a> · If I have any views — they are my own"
 
 [dateFormat]
     published   = ":date_full"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    emoji    = "☁️"
+    subtitle = "Planned to come to Google Next as a Recruiter back in 2021.<br>Rocked up as a Senior Platform Engineer @ <a href='https://www.bynd.com/' target='_blank'>Beyond</a> instead.<br><br>Notes from Las Vegas, 2026.<br>If I have any views — they are my own."
     avatar   = "img/avatar.png"
 
 [article]
-    headingAnchor = false
+    headingAnchor = true
     math          = false
     readingTime   = true
 
     [article.license]
-        enabled = true
-        default = "Licensed under CC BY-NC-SA 4.0"
+        enabled = false
 
 [widgets]
     homepage = [
@@ -46,12 +45,7 @@ SortBy              = "default"
 
 [colorScheme]
     toggle  = true
-    default = "auto"
+    default = "dark"
 
-## Comments
 [comments]
-    enabled  = true
-    provider = "disqus"
-
-    # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
-    # Copy the configurations you need from there and paste it here.
+    enabled = false
