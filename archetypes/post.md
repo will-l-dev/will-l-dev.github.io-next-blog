@@ -6,7 +6,6 @@ draft: true
 image: ""
 categories: ["Daily Write-ups"]
 tags: []
-series: ["Google Cloud Next 2026"]
 ---
 
 <!--more-->

@@ -6,13 +6,7 @@ draft: true
 image: ""
 categories: ["Agenda"]
 tags: []
-series: ["Google Cloud Next 2026"]
-session_id:   ""
 session_date: ""
-speaker:      []
-track:        ""
-session_url:  ""
-status:       "planned"   # planned | attended | skipped
 rating:       0           # fill in after attending (1-5)
 ---
 

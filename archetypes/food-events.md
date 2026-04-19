@@ -9,7 +9,6 @@ tags: []
 event_type:  ""
 event_date:  ""
 venue:       ""
-host:        ""
 ---
 
 ## The vibe

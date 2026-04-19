@@ -6,9 +6,6 @@ draft: true
 image: ""
 categories: ["Travel"]
 tags: []
-travel_type:    ""
-origin:         ""
-destination:    ""
 carrier:        ""
 departure_time: ""
 arrival_time:   ""
