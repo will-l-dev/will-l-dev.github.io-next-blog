@@ -19,7 +19,7 @@ SortBy              = "default"
 
 [sidebar]
     emoji    = "☁️"
-    subtitle = "Planned to come to Google Next as a Recruiter back in 2021.<br>Rocked up as a Senior Platform Engineer @ <a href='https://www.bynd.com/' target='_blank'>Beyond</a> instead.<br><br>Notes from Las Vegas, 2026.<br>If I have any views — they are my own."
+    subtitle = "Planned to come to Google Next as a Recruiter back in 2021.<br><br>Rocked up as a Senior Platform Engineer @ <a href='https://www.bynd.com/' target='_blank'>Beyond</a> instead.<br><br>Notes from Las Vegas, 2026.<br>If I have any views — they are my own."
     avatar   = "img/avatar.png"
 
 [article]
