@@ -1,6 +1,8 @@
 name: Build and deploy
 on:
-  workflow_dispatch:  # deploy manually only — remove this restriction when ready to go live
+  push:
+    branches: [master]
+  workflow_dispatch:
 permissions:
   contents: read
   pages: write

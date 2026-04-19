@@ -2,7 +2,7 @@
 title: "T-6 Days"
 description: "Flying to Las Vegas on Monday for Google Cloud Next 2026"
 date: 2026-04-15T09:00:00-07:00
-draft: false
+draft: true
 categories: ["Daily Write-ups"]
 tags: ["meta"]
 series: ["Google Cloud Next 2026"]
