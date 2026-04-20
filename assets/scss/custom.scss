@@ -1,5 +1,5 @@
 /*
-    Somehow at Next — custom dark palette
+    Somehow at Next — custom dark palette + readability
 */
 
 [data-scheme="dark"] {
@@ -8,4 +8,22 @@
     --accent-color:         #4ade80;
     --accent-color-darker:  #22c55e;
     --accent-color-text:    #0d1117;
+}
+
+// Article body — improved readability
+.article-content {
+    font-size:   1.05rem;
+    line-height: 1.85;
+
+    p {
+        margin-bottom: 1.4em;
+    }
+
+    h2 {
+        margin-top: 2.2em;
+    }
+
+    img {
+        border-radius: 6px;
+    }
 }
