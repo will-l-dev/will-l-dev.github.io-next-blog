@@ -1,15 +1,15 @@
 [[main]]
-    identifier = "about"
-    name       = "About"
-    url        = "/about/"
-    weight     = 1
-    [main.params]
-        icon = "user"
-
-[[main]]
     identifier = "home"
     name       = "Home"
     url        = "/"
+    weight     = 1
+    [main.params]
+        icon = "home"
+
+[[main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about/"
     weight     = 2
     [main.params]
         icon = "home"
