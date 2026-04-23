@@ -41,6 +41,26 @@ Not really a dinner in the traditional sense — more snacks and buffet-style. P
 
 ---
 
+## The walk back
+
+The route from BrewDog to the Luxor is a proper Strip experience — all elevated walkways, connected hotel malls and signs competing for your attention.
+
+![MGM Grand billboard at night — Mastodon, Cirque du Soleil KÀ](mgm-billboard.jpg)
+
+![The Strip at night — New York New York, Hershey's, Excalibur](strip-new-york-new-york.jpg)
+
+![Excalibur Hotel and Casino from the elevated walkway](excalibur-night.jpg)
+
+The indoor travelator through the hotel mall is a strange experience — you're essentially walking through a medieval castle to get home.
+
+![Indoor travelator through the Excalibur hotel mall](hotel-walkway.jpg)
+
+The Luxor sky beam is visible long before you get back — easily the best landmark to navigate by.
+
+![Luxor sky beam with Excalibur's turret in the foreground](luxor-beam.jpg)
+
+---
+
 ## Worth noting
 
 [BrewDog](https://www.brewdog.com/) will also be the venue for our private drinks event on Thursday night. Looking forward to returning.
