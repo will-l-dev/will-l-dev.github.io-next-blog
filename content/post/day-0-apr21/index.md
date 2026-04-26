@@ -46,4 +46,4 @@ Didn't get many photos (of the food). Need to sort that habit out.
 
 ## Tonight
 
-Team dinner at BrewDog Las Vegas — [read that post](/food-events/apr21-team-dinner-brewdog/).
+Team dinner at BrewDog Las Vegas — [read that post]({{< relref "/food-events/apr21-team-dinner-brewdog" >}}).
