@@ -49,11 +49,15 @@ The route from BrewDog to the Luxor is a proper Strip experience — all elevate
 
 ![The Strip at night — New York New York, Hershey's, Excalibur](strip-new-york-new-york.jpg)
 
+![Las Vegas Strip panorama — New York New York and the Luxor beam](strip-walk-panorama.jpg)
+
 ![Excalibur Hotel and Casino from the elevated walkway](excalibur-night.jpg)
 
-The indoor travelator through the hotel mall is a strange experience — you're essentially walking through a medieval castle to get home.
+![Park MGM and Eataly from the walkway at night](park-mgm-eataly-night.jpg)
 
-![Indoor travelator through the Excalibur hotel mall](hotel-walkway.jpg)
+Another travelator. Cannot help myself.
+
+![Another travelator — through the Excalibur hotel mall](hotel-walkway.jpg)
 
 The Luxor sky beam is visible long before you get back — easily the best landmark to navigate by.
 
