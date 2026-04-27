@@ -22,13 +22,13 @@ This post isn't a full breakdown — watch the video for that. This is my person
 
 ## Getting there
 
-Short walk from the Luxor to the Mandalay Bay Queue at 7am for a 9am start. It was in the Arena and  Sam and I got there early before Andreeea joined us — the only realistic way to guarantee a seat. Our CEO and other members of leadership had advised just how busy this gets — the highlight of Next. If you want to be in the room for the opening keynote at a conference this size, you need to treat it like a gig.
+Short walk from the Luxor to the Mandalay Bay Queue at 7am for a 9am start. It was in the Arena and  Sam and I got there early before Andreea joined us — the only realistic way to guarantee a seat. Our CEO and other members of leadership had advised just how busy this gets — the highlight of Next. If you want to be in the room for the opening keynote at a conference this size, you need to treat it like a gig.
 
 ![Google Cloud Next arena entrance — "The new way to cloud"](arena-entrance.jpg)
 
 We did pretty well with the seats. The YouTube video which has good shots of the arena for scale.
 
-![Me, Andreeea and Sam — waiting for the keynote](early-queue-seats.jpg)
+![Me, Andreea and Sam — waiting for the keynote](early-queue-seats.jpg)
 
 ---
 
