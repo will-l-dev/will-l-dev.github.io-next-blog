@@ -1,0 +1,14 @@
+{{- $src := .Destination -}}
+{{- $alt := .Text -}}
+{{- $res := .Page.Resources.GetMatch ($src | path.Base) -}}
+<figure>
+  <a class="pswp-link"
+     href="{{ $src | safeURL }}"
+     {{- with $res }} data-pswp-width="{{ .Width }}" data-pswp-height="{{ .Height }}"{{ end -}}>
+    <img src="{{ $src | safeURL }}"
+         alt="{{ $alt | safeHTML }}"
+         loading="lazy"
+         {{- with $res }} width="{{ .Width }}" height="{{ .Height }}"{{ end -}}>
+  </a>
+  {{- with $alt }}<figcaption>{{ . | safeHTML }}</figcaption>{{ end -}}
+</figure>

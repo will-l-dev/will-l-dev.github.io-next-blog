@@ -32,4 +32,101 @@
             margin-bottom: 1.2em;
         }
     }
+
+    // Blockquotes
+    blockquote {
+        border-left: 3px solid var(--accent-color);
+        background: var(--card-background);
+        border-radius: 0 6px 6px 0;
+        padding: 0.9em 1.4em;
+        margin: 1.6em 0;
+
+        p {
+            margin-bottom: 0;
+            font-style: italic;
+            opacity: 0.85;
+        }
+    }
+
+    // Image captions
+    figcaption {
+        text-align: center;
+        font-size: 0.83em;
+        font-style: italic;
+        margin-top: 0.4em;
+        margin-bottom: 1.2em;
+        opacity: 0.6;
+    }
+
+    // PhotoSwipe image links
+    a.pswp-link {
+        cursor: zoom-in;
+        display: block;
+    }
+}
+
+// Reading progress bar
+#reading-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 3px;
+    background: var(--accent-color);
+    z-index: 9999;
+    transition: width 0.08s linear;
+    border-radius: 0 2px 2px 0;
+    pointer-events: none;
+}
+
+// Back to top button
+#back-to-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    width: 2.8rem;
+    height: 2.8rem;
+    background: var(--accent-color);
+    color: var(--accent-color-text);
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    opacity: 0;
+    transform: translateY(0.5rem);
+    transition: opacity 0.25s, transform 0.25s;
+    z-index: 9998;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+    line-height: 1;
+
+    &.visible {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    &:hover {
+        background: var(--accent-color-darker);
+    }
+}
+
+// Session ratings (agenda posts)
+.session-rating {
+    display: flex;
+    align-items: center;
+    gap: 0.2rem;
+    margin-bottom: 1.5rem;
+    font-size: 1.6rem;
+
+    .star--filled { color: var(--accent-color); }
+    .star--empty  { color: rgba(128, 128, 128, 0.3); }
+}
+
+// Day tags — visually distinct in tag cloud
+a[href*="/tags/day-"] {
+    background: rgba(74, 222, 128, 0.12) !important;
+    border: 1px solid rgba(74, 222, 128, 0.35) !important;
+    color: var(--accent-color) !important;
 }

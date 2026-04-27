@@ -1,2 +1,8 @@
 <script data-goatcounter="https://somehow-at-next.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@5/dist/photoswipe.css">
+
+{{ if eq .Section "agenda" }}
+<meta name="session-rating" content="{{ .Params.rating | default 0 }}">
+{{ end }}
