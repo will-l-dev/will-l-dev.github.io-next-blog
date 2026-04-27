@@ -130,3 +130,42 @@ a[href*="/tags/day-"] {
     border: 1px solid rgba(74, 222, 128, 0.35) !important;
     color: var(--accent-color) !important;
 }
+
+// View Transitions — cross-fade between pages
+@view-transition {
+    navigation: auto;
+}
+
+::view-transition-old(root) {
+    animation: 200ms ease out both fade-out;
+}
+
+::view-transition-new(root) {
+    animation: 300ms ease in both fade-in;
+}
+
+@keyframes fade-out {
+    from { opacity: 1; }
+    to   { opacity: 0; }
+}
+
+@keyframes fade-in {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+// Scroll-triggered fade-ins
+.fade-in {
+    opacity: 0;
+    transform: translateY(18px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+
+    &.visible {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .fade-in { opacity: 1; transform: none; transition: none; }
+}

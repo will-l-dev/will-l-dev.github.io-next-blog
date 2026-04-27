@@ -38,6 +38,22 @@ lightbox.init();
     });
 }());
 
+// Scroll-triggered fade-ins
+(function () {
+    var els = document.querySelectorAll('.article-content figure, .article-content blockquote, .article-content h2');
+    if (!els.length || !window.IntersectionObserver) return;
+    els.forEach(function (el) { el.classList.add('fade-in'); });
+    var observer = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('visible');
+                observer.unobserve(entry.target);
+            }
+        });
+    }, { threshold: 0.1 });
+    els.forEach(function (el) { observer.observe(el); });
+}());
+
 // Session ratings
 (function () {
     var meta = document.querySelector('meta[name="session-rating"]');

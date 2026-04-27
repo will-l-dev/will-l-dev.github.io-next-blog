@@ -2,7 +2,7 @@
 title: "Opening Keynote: The Agentic Cloud"
 description: "Thomas Kurian sets the tone for Next '26 — the era of the pilot is over. Notes, reactions, and tangents from the opening keynote."
 date: 2026-04-22T09:00:00-07:00
-image: "early-queue-seats.jpg"
+image: "arena-entrance.jpg"
 categories: ["Agenda"]
 tags: ["keynote", "agents", "ai", "gemini", "infrastructure", "security"]
 series: ["Google Cloud Next 2026"]
