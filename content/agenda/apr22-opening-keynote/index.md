@@ -7,7 +7,7 @@ categories: ["Agenda"]
 tags: ["keynote", "agents", "ai", "gemini", "infrastructure", "security"]
 series: ["Google Cloud Next 2026"]
 session_date: "2026-04-22"
-rating: 0
+rating: 5
 ---
 
 ## What this session is about
