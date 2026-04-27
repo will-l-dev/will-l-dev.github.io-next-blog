@@ -12,8 +12,8 @@
 
 // Article body — improved readability
 .article-content {
-    font-size:   1.5rem;
-    line-height: 1.85;
+    font-size:   1.7rem;
+    line-height: 1.8;
 
     p {
         margin-bottom: 1.4em;
@@ -25,5 +25,11 @@
 
     img {
         border-radius: 6px;
+    }
+
+    ol, ul {
+        li {
+            margin-bottom: 1.2em;
+        }
     }
 }
