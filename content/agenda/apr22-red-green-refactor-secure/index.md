@@ -30,6 +30,8 @@ That gap is Context Engineering — filtering the infinite possibilities of an L
 
 The vehicle for this is the `GEMINI.md` context file (directly analogous to `CLAUDE.md` for Claude users). Context files can exist at folder, project, or organisation level — you segment them out to avoid Context Collapse, where an agent starts doing JavaScript things instead of Python things because it doesn't know which context it's operating in or that it has so much context over a period of time it starts hallucinating.
 
+![GEMINI.md context rules — role, stack, and four key directives: test-first, small increments, commit often, use existing /src patterns](gemini-md-context-rules.jpg)
+
 ![GEMINI.md context file in VS Code — security rules, TDD constraints, and validation schemas baked into the agent's context](gemini-md-context-file.jpg)
 
 The point isn't just productivity. A well-structured context file is your first security layer — rules like "DO NOT rely solely on prompts for security" and "always use parameterised queries" mean the agent starts from a secure foundation rather than having to be reminded every single time.
@@ -120,6 +122,8 @@ Two guardrails for high-velocity AI development.
 **Checkpointing:** the Gemini CLI automatically saves a snapshot before AI modifications. If the vibe goes wrong, `gemini undo` rolls back instantly. Think of it like a boss checkpoint in a game — you can take risks knowing you have a clean save point. You can also add checkpointing instructions directly to your context file to enforce this behaviour.
 
 **Sandboxed Execution:** `gemini -s` runs potentially unsafe shell commands in an isolated container rather than directly on the host. This contains the blast radius when the agent does something unexpected.
+
+![Guardrail: Sandboxed Execution — Gemini Sandbox runs commands in an isolated container within the host system](sandboxed-execution.jpg)
 
 Both are trust-but-verify in practice. You are not stopping the agent — you are making sure you can recover.
 

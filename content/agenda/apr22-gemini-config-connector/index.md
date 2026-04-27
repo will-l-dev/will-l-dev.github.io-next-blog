@@ -69,6 +69,8 @@ Three more that didn't make the slide but came up:
 
 The session ended with something I hadn't expected: a KCC Ops Agent Skill running on [Antigravity](https://antigravity.google/) — Google's agentic development platform. The model is Discovery, Activation, Execution. Skills can bundle Bash or Python scripts and execute them directly, and are loaded only when needed.
 
+![Implementation in Antigravity — Skills scoped to .agents/skills or globally at ~/.gemini/antigravity/skills; SKILL.md YAML frontmatter with a trigger phrase description for auto-activation](antigravity-implementation.jpg)
+
 The insight that landed:
 
 > *You don't have to force every engineer to learn the KCC internals from scratch. Build the KCC Ops Skill, make it good enough, and the learning curve disappears — replaced by something more capable and consistent than a human trying to remember the abandon annotation workflow at 2am.*
