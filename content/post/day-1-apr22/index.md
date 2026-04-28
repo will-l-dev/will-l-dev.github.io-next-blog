@@ -25,7 +25,7 @@ The [Mandalay Bay Convention Center](https://mandalaybay.mgmresorts.com/en/meeti
 
 | Time | Session | Rating |
 | --- | --- | --- |
-| 09:30 | Opening Keynote | — |
+| 09:00 | Opening Keynote | — |
 | 11:00 | [Automating Excellence: Gemini and Config Connector]({{< relref "/agenda/apr22-gemini-config-connector" >}}) | ★★★★★ |
 | 12:30 | [Red, Green, Refactor, Secure]({{< relref "/agenda/apr22-red-green-refactor-secure" >}}) | ★★★★★ |
 | 13:30 | [Lights, Camera, AI Action!!]({{< relref "/agenda/apr22-lights-camera-ai-action" >}}) | ★★★ |
