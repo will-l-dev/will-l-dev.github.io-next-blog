@@ -16,6 +16,8 @@ How Gemini and Config Connector help establish a secure, AI-ready foundation for
 
 {{< youtube IaEUB3xhblw >}}
 
+**Session slides:** [PDF](https://content-cdn.sessionboard.com/content/xKYYNVoSJefuy0iXJ6MF_BRK2-111.pdf)
+
 ---
 
 ## Made it
