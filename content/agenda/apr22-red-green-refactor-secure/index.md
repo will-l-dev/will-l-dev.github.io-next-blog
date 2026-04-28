@@ -16,6 +16,8 @@ This session will show how to maintain high-velocity development using AI withou
 
 **Speakers:** Aron Eidelman (Security Advocate, Google Cloud)
 
+{{< youtube h6CBqMxUhv4 >}}
+
 ---
 
 ## Context Engineering: the Ramped Up Developer
