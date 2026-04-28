@@ -18,6 +18,8 @@ This session will show how to maintain high-velocity development using AI withou
 
 {{< youtube h6CBqMxUhv4 >}}
 
+**Session slides:** [PDF](https://content-cdn.sessionboard.com/content/QymBMXsS5y52x1VK4ZSw_BRK2-147.pdf)
+
 ---
 
 ## Context Engineering: the Ramped Up Developer
@@ -111,7 +113,7 @@ The second command kicks off the full deep scan against your codebase — static
 gemini scan --deep
 ```
 
-The point is that these run locally, before a commit ever leaves your machine. Hook it into `.pre-commit` with a baseline config and every project gets the same floor of security checks automatically. Shift left isn't just a concept here — it's an enforced step at the developer's machine, not something that surfaces three stages later in the pipeline.
+The point is that these run locally, before a commit ever leaves your machine. Google has published the full walkthrough as a [Codelab](https://codelabs.developers.google.com/gemini-cli/gemini-cli-security-review#0) — worth running through end to end. Hook it into `.pre-commit` with a baseline config and every project gets the same floor of security checks automatically. Shift left isn't just a concept here — it's an enforced step at the developer's machine, not something that surfaces three stages later in the pipeline.
 
 ---
 
