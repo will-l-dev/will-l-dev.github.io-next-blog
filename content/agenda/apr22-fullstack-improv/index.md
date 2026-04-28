@@ -16,6 +16,12 @@ Watch a full-stack application get built from scratch in 45 minutes — live, wi
 
 **Speakers:** Justin Mahood (Group Product Manager, Google Cloud) · Simon Margolis (Associate CTO & Distinguished Technologist, Insight) · Luke Schlangen (Developer Advocate, Google Cloud)
 
+![Simon Margolis, Justin Mahood, and Luke Schlangen — the Full-Stack Improv speakers](speakers.jpg)
+
+{{< youtube 5Kv8wTImqbo >}}
+
+**Session slides:** [PDF](https://content-cdn.sessionboard.com/content/0GE7AQXTAiGdQDAtZpM9_BRK2-080.pdf)
+
 ---
 
 ![Large main hall between sessions — the scale of the conference space before Full-Stack Improv](ballroom-between-sessions.jpg)
