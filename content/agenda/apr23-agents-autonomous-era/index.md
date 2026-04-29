@@ -1,5 +1,5 @@
 ---
-title: "Get Real: Agents in the Autonomous Era"
+title: "Developer Keynote: Get Real — Agents in the Autonomous Era"
 description: "The Day 2 developer keynote used a Las Vegas marathon simulator to show what multi-agent systems actually look like in production — ADK, MCP, A2A, Agent Registry, and the shift from 'shift left' to 'shift down'."
 date: 2026-04-23T10:30:00-07:00
 image: "walk-to-keynote.jpg"
