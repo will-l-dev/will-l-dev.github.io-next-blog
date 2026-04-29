@@ -16,6 +16,12 @@ Platforms are one of the main keys to unlocking AI benefits — quality platform
 
 ---
 
+## Agenda Meme
+
+![Conspiracy Keanu meme — What if Platform Engineering ROI was as obvious to leadership as it is to us?](agenda-meme.jpg)
+
+---
+
 ![Platform Engineering Meetup at Google Cloud Next 2026 — a crowded open floor session with attendees in groups at standing tables, "Platform Engineer Meetup — Google Next 2026, Connect, Collaborate, Scale" banner in the background. AI-generated image.](platform-engineering-meetup.jpg)
 
 One thing immediately noticeable walking in: the room was almost entirely male. A stark reminder of where the profession still is. There were several Women in Tech and empowerment sessions running at the same time, which may partly explain it — but it is still worth calling out.

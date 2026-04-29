@@ -18,6 +18,12 @@ Traditional detection is no longer enough. To stay ahead of attackers, you must 
 
 ---
 
+## Agenda Meme
+
+![Spider-Man pointing meme — AI used to attack AI infrastructure pointing at AI used to defend AI infrastructure](agenda-meme.jpg)
+
+---
+
 ## 07:00am start on a Thursday
 
 ![Starbucks Nitro Cold Brew and two Quest Bars on the hotel room counter](early-morning-fuel.jpg)

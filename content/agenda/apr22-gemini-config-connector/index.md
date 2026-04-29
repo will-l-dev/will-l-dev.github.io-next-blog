@@ -20,6 +20,12 @@ How Gemini and Config Connector help establish a secure, AI-ready foundation for
 
 ---
 
+## Agenda Meme
+
+![Expanding brain meme — Clicking through the GCP console / Writing Terraform / Config Connector / Config Connector reconciling drift while you sleep](agenda-meme.jpg)
+
+---
+
 ## Made it
 
 Somehow. The corridors after the keynote are claustrophobic. I felt safe at all times but the picture in the previous post did not do it justice. Anyway the session for this was three floors up on the other side of the conference centre. I knew where I was going from my recon the previous day.
