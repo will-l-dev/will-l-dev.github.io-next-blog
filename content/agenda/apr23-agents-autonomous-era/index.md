@@ -20,12 +20,6 @@ Move beyond the basics of coding with AI to the real engineering challenges of b
 
 ---
 
-## Agenda Meme
-
-![Drake meme — Rejects hello world agent demo / Approves full Las Vegas marathon simulator with 10,000 runners built live on stage](agenda-meme.jpg)
-
----
-
 ## Getting there
 
 ![Google Cloud Next conference lobby — delegates walking through the entrance hall towards the keynote](walk-to-keynote.jpg)
