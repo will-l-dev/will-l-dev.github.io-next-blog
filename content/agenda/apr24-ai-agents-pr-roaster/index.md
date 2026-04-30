@@ -18,12 +18,6 @@ Watch an AI agent build a team of agents live. Using [ADK](https://google.github
 
 ---
 
-## Agenda Meme
-
-![Panik Kalm Panik meme — Submitting a PR / It is just a code review / The AI generates a personalised meme about your code](agenda-meme.jpg)
-
----
-
 ## The setup
 
 This was a booth session on the Google Cloud expo floor rather than a main theatre — standing room, demo-forward. There was a slide deck but at time of writing it had not been uploaded to the NEXT catch-up site.

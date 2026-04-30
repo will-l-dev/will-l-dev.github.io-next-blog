@@ -18,12 +18,6 @@ Even the most successful leaders often struggle with the "I'm not enough" narrat
 
 ---
 
-## Agenda Meme
-
-![Distracted boyfriend meme — Me looking at a mindset session at a tech conference, leaving the Kubernetes session behind](agenda-meme.jpg)
-
----
-
 ![Self-Confidence: How to Overcome the I'm Not Enough Mindset — title card at Google Cloud Next 26](session-title.jpg)
 
 This was a Community Lounge session — smaller format, round tables, no stage. I had been checking the agenda for a free seat every day for two weeks. Got lucky at the last minute.

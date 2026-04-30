@@ -18,12 +18,6 @@ Struggling to scale AI development? Discover how to build an intelligent, self-s
 
 ---
 
-## Agenda Meme
-
-![Panik Kalm Panik meme — Deploying to prod on a Friday / AI-assisted pipelines with automated rollback / Friday 4pm and the pipeline just started](agenda-meme.jpg)
-
----
-
 This was a Developer Theater lightning talk — 25 minutes, standing format, smaller audience. The kind of session that delivers more per minute than most full-length sessions.
 
 The theater sits inside the main Expo Hall. Getting there meant my first proper walk through it — and that walk completely derailed my plans for the rest of the conference in the best possible way. I'll come back to that at the end.
